@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Decentralized Voting Dapp : DVOTE
 
 # Dvote
@@ -27,3 +28,7 @@
   yarn install
   yarn start
   ```
+=======
+# VotingDapp
+A decentralized voting web app
+>>>>>>> af78f1ad1cefcb25374d3e97b5ada07eff2857b9
