@@ -1,3 +1,5 @@
+# Decentralized Voting Dapp : DVOTE
+
 # Dvote
 
 - Dvote is a General Decentralized Voting Dapp that is Open, Secure and customizable.
